@@ -1,0 +1,93 @@
+* {
+    font-size: 1em;
+}
+
+#logo {
+    float: left;
+    width: 25%;
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+}
+
+
+#nav_links {
+    float: left;
+    width: 30%;
+    margin-left: 6%;
+    padding-top: 1%;
+}
+
+
+#login {
+    float: left;
+    width: 35%;
+    padding-top: 1%;
+    text-align: right;
+}
+
+header>nav {
+    padding-top: 2%;
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+
+#navigation li {
+    display: inline-block;
+    margin-right: 4%;
+    font-weight: lighter;
+}
+
+.navbar-custom {
+    background-color: transparent;
+}
+
+#success {
+    font-size: 22px;
+}
+
+.link {
+    padding-bottom: 15px;
+}
+
+.underline {
+    border-bottom: black 2px solid;
+}
+
+#navigation a {
+    text-decoration: none;
+    color: black;
+}
+
+
+footer {
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.2);
+    height: 100px;
+    padding-top: 20px;
+    background: transparent;
+    color: white;
+}
+
+footer li {
+    display: inline-block;
+    text-decoration: none;
+    padding-right: 1%;
+    padding-bottom: 10px;
+}
+
+#footer_links {
+    float: left;
+    width: 80%;
+    padding-bottom: 10px;
+}
+
+#footer_copyright {
+    float: left;
+    width: 20%;
+    padding-bottom: 10px;
+}
+
+#footer a {
+    text-decoration: none;
+    color: white;
+    padding-bottom: 10px;
+}

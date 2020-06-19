@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+*Each USER MUST have an attribute 'type'. It can either be 'Client' or 'Admin'.
+*Each USER MUST have an ID. It should start with digit-1(Client) or digit-9(Admin).
+*Each USER MUST have a password. Should start with an alphabet. Can contain only alpahets and numbers. Should be between 4-10 characters
+*Each USER MUST have a firstname and lastname. Middlenames are optional.
+*Each USER Must have a coutry. Countries should be only the values mentioned in the restriction enumeration.
+*Each USER MUST have an 'email id'. It should contain character '@'.
+-->
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="users.xsd">
+        <user type="Client">
+            <id>117556848866561599297</id>
+            <name>
+                <firstname>Arun</firstname>
+                <lastname>Rathinam</lastname>
+            </name>
+            <url>https://lh5.googleusercontent.com/-WR8WXRgwzoA/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNqMdljaH5DLaguTBFyD-v923meOg/s96-c/photo.jpg</url>
+            <email>n01358379@humbermail.ca</email>
+        </user>
+        <user type="Client">
+            <id>116785384165903045103</id>
+            <name>
+                <firstname>Dineshkar</firstname>
+                <lastname>Sampath Kumar</lastname>
+            </name>
+            <url>https://lh3.googleusercontent.com/a-/AOh14GgaRMXfm4YKrovRwk9fT226m5Z2ml9m2mqBFq0q9wQ=s96-c</url>
+            <email>dineshkar1996@gmail.com</email>
+        </user>
+        <user type="Client">
+            <id>111710498194557739832</id>
+            <name>
+                <firstname>Ragini</firstname>
+                <lastname>Shirwalkar</lastname>
+            </name>
+            <url>https://lh3.googleusercontent.com/a-/AOh14GhuKTXl5nm6PbV2depBGxmUxEIohqUxg1SF-7_d=s96-c</url>
+            <email>shirwalkarragini@gmail.com</email>
+        </user>
+        <user type="Client">
+            <id>107206720588277343981</id>
+            <name>
+                <firstname>Arun</firstname>
+                <lastname>Rathinam</lastname>
+            </name>
+            <url>https://lh3.googleusercontent.com/a-/AOh14Gjy6lzlZ_eJYYGrhJaa1hxxBwWWUuSIuG5YXLOTQx4=s96-c</url>
+            <email>arun.saiyan@gmail.com</email>
+        </user>
+    <user type="Client"><id>104316554969946418783</id><name><firstname>suchi</firstname><lastname>m</lastname></name><url>https://lh6.googleusercontent.com/-rqP5FP3Tr4s/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJNxuB4_-TA9rebhFnttvo1PFQl0-w/s96-c/photo.jpg</url><email>suchitechm@gmail.com</email></user><user type="Client"><id>101870708007948958019</id><name><firstname>Joanna</firstname><lastname>Kommala</lastname></name><url>https://lh5.googleusercontent.com/-F4wSnbewDBU/AAAAAAAAAAI/AAAAAAAAAAA/AAKWJJPa5oA60QnIgoVBqEhO15I_m7UCoQ/s96-c/photo.jpg</url><email>joannakommala@gmail.com</email></user><user type="Client"><id>114263135961017758061</id><name><firstname>Alamdar</firstname><lastname>Ali</lastname></name><url>https://lh3.googleusercontent.com/a-/AOh14GgChzABRpOpELnQAoaJA72kQ6FMH61gRlLZ6asUnw=s96-c</url><email>alamdar.cse@gmail.com</email></user>
+        <user type="Client">
+        <id>117508878699000949494</id>
+        <name>
+            <firstname>Krina</firstname>
+            <lastname>patel</lastname>
+        </name>
+        <url>https://lh3.googleusercontent.com/a-/AOh14GjwiqVnzBBEGZDU293tiWaRB1M4LcyLOmqjBL_X=s96-c</url>
+        <email>krinapatel440@gmail.com</email>
+    </user>
+    </users>
